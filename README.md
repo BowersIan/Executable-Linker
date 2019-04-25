@@ -16,4 +16,5 @@ Download the Executable-Linker.py file and run it with python3. See the printout
     -f, --follow-links    Follow links in directory structure, may lead to
                             infinite looping or other issues
     -l, --lower           Sets link names to lowercase
+    -e, --extension       Leaves file extension on link
     -g, --git             Stops ignoring .git folders. Recommended to leave off
